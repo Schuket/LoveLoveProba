@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 95: expected statement.
+    renpy.music.set_volume(0.6, delay=0, channel='music')
+                                                         ^
+
+File "game/script.rpy", line 96: expected statement.
+    renpy.music.set_volume(0.4, delay=0, channel='sound')
+                                                         ^
+
+Ren'Py Version: Ren'Py 6.99.14.3.3347
+Wed Apr 11 23:04:47 2018
